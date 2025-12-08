@@ -25,7 +25,6 @@ This project implements a low-latency **Change Data Capture (CDC)** pipeline. It
 - [Scaling to Production](#scaling-to-production)
 - [Troubleshooting](#troubleshooting)
 - [Project Structure](#project-structure)
-- [License](#license)
 
 ## Architecture
 
@@ -217,7 +216,3 @@ CDC-Pipeline-with-Spark-Structured-Streaming/
 │   └── silver/               # Processed & merged data
 └── README.md                 # This file
 ```
-
-## License
-
-This project is open source and available for educational and commercial use.
